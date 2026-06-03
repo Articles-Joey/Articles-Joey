@@ -6,8 +6,7 @@ Below is a preview of my work, for my full portfolio visit [joey.articles.media]
     <img alt="NextJs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react" />
-    <img alt="Three.js" src="https://img.shields.io/badge/Three.
-    js-000000?style=flat-square&logo=three.js&logoColor=white" />
+    <img alt="Three.js" src="https://img.shields.io/badge/Three%2Ejs-000000?style=flat-square&logo=three.js&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square" />
     <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat-square" />
