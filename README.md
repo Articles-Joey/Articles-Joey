@@ -52,13 +52,14 @@ Below is a preview of my work, for my full portfolio visit [joey.articles.media]
 
 # Software
 
-Articles Project Manager (React / Node.js Web App) - [GitHub](https://github.com/Articles-Joey/articles-project-manager)
+<b>Articles Media Project Manager (React / Node.js Web App)</b>  
+[GitHub](https://github.com/Articles-Joey/project-manager) - Software to help manage Node.js projects that are using NPM. 
+- Analyze CVEs across every project at once.
+- Bulk audit, audit fix, and push tools
+- Inactive node_modules deletion
 
-- Software to help bulk manage Node.js projects using NPM on a computer.
-
-Articles Backups (React / Node.js Web App / Electron Windows App) - [GitHub](https://github.com/Articles-Joey/articles-backups)
-
-- Software to assist in the manual and automatic backup and encryption of computer data.
+<b>Articles Backups (React / Node.js Web App / Electron Windows App)</b>  
+[GitHub](https://github.com/Articles-Joey/articles-backups) - Software to assist in the manual and automatic backup and encryption of computer data.
 
 # NPM Packages
 
