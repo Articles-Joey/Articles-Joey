@@ -69,7 +69,9 @@ Articles Gamepad Keyboard - [NPM](https://www.npmjs.com/package/@articles-media/
 
 # Browser Extensions
 
-Articles Media - [GitHub](https://github.com/Articles-Joey/articles-browser-extension-react) (Gotta build yourself for now, not on extension stores yet.)
+Articles Media - [GitHub](https://github.com/Articles-Joey/articles-browser-extension-react) (Gotta build yourself for now, not on extension stores yet.) - Adds tools for safer and smarter web browsing. Helps you avoid untrustful companies while browsing the web.
+
+ui-for-yt-dlp - [GitHub](https://github.com/Articles-Joey/ui-for-yt-dlp) (Gotta Load unpacked, not on extension stores.) - Helper UI for yt-dlp, adds download buttons via extension to make using yt-dlp faster and easier.
 
 # 3D Projects
 
