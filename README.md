@@ -58,8 +58,15 @@ Below is a preview of my work, for my full portfolio visit [joey.articles.media]
 - Bulk audit, audit fix, and push tools
 - Inactive node_modules deletion
 
-<b>Articles Backups (React / Node.js Web App / Electron Windows App)</b>  
+<b>Articles Media Backups (React / Node.js Web App / Electron Windows App)</b>  
 [GitHub](https://github.com/Articles-Joey/articles-backups) - Software to assist in the manual and automatic backup and encryption of computer data.
+
+<b>Articles Media PowerToys (React / Node.js Web App / Registry Editor)</b>  
+[GitHub](https://github.com/Articles-Media/PowerToys) - Enables the easy creation, installation, and management of added Windows features and utilities via extensions.
+- Add context menu commands to run scripts within minutes
+- UI built with React and a Node/Express backend
+- Customizable extension system to expand functionality
+- Context menu commands continue to work without app running after install
 
 # NPM Packages
 
